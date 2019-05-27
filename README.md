@@ -21,7 +21,7 @@
 |          | Edit the agenda.md.                                          |
 |          | Commit with a relevant commit message.                       |
 |          | Push the changes online.                                     |
-|          |                                                              |
+|          | Link to [agenda](<https://github.com/SenneBerger/Agenda/blob/master/agenda.md>) |
 |          | Topic ideas:                                                 |
 |          |                                                              |
 |          | gitignore                                                    |
