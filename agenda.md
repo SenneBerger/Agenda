@@ -16,7 +16,7 @@
 |          *Thursday*           | *06/06/2019* |      | Kremena  | Robots.txt             |
 |           *Friday*            | *07/06/2019* |      | Wendy    | Sitemap                |
 
-|      **Agenda: Hopper-2**       |              |      | **Name** | **Topic**       |
+|     *__Agenda: Hopper-2__*      |              |      | **Name** | **Topic**       |
 | :-----------------------------: | :----------: | ---- | -------- | --------------- |
 | __Week: June 10th - June 14th__ |     Date     |      |          |                 |
 |            *Monday*             | *10/06/2019* |      | Soheil   | SASS            |
@@ -25,7 +25,7 @@
 |           *Thursday*            | *13/06/2019* |      | Thomas   | Neuromarketing  |
 |            *Friday*             | *14/06/2019* |      | Magomed  | Material design |
 
-|      **Agenda: Hopper-2**       |              |      | **Name** | **Topic**           |
+|     *__Agenda: Hopper-2__*      |              |      | **Name** | **Topic**           |
 | :-----------------------------: | :----------: | ---- | -------- | ------------------- |
 | __Week: June 17th - June 22nd__ |     Date     |      |          |                     |
 |            *Monday*             | *17/06/2019* |      | Jal      | Image formats       |
